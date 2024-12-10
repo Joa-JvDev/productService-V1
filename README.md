@@ -6,7 +6,7 @@ We created a product service to be consumed by another service for orders. For t
 
 ## Scheme
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![1](https://github.com/user-attachments/assets/e3cc1be1-da14-49c1-85ea-2c58cfc907cb))
 
 
 ## EndPoints Example
